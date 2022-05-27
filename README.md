@@ -13,6 +13,7 @@ Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [Proj
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
 
 ## Disclaimer
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Babymu21/Man-Userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-Green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ```
 Saya tidak bertanggung jawab atas penyalahgunaan bot ini.
